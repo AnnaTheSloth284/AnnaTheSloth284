@@ -24,7 +24,7 @@ I'm skilled in PyTorch, Keras, TensorFlow, and love diving into the world of dat
 
 ## Let's Connect!
 
-📫 Feel free to reach out to me via theblithesomesloth.com or connect on Linkedin (https://www.linkedin.com/in/annaannmathew/).
-🌐 Check out my Instagram (https://www.instagram.com/blithesomesloth/) or X (www.twitter.com/blithesomesloth) for tech insights and more.
+📫 Feel free to reach out to me via theblithesomesloth@gmail.com or connect on Linkedin (www.linkedin.com/in/annaannmathew/).
+🌐 Check out my Instagram (www.instagram.com/blithesomesloth/) or X (www.twitter.com/blithesomesloth) for tech insights and more.
 
 Thanks for stopping by! Let's collaborate, innovate, and make a positive impact together. 🚀
