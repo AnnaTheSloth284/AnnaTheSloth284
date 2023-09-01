@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm [Your Name]
+# Hey there! 👋 I'm Anna
 
 🌟 Tech Enthusiast | 🤖 AI/ML Enthusiast | 🎨 UI/UX Designer
 
