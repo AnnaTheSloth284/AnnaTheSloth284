@@ -31,4 +31,6 @@ Thanks for stopping by! Let's collaborate, innovate, and make a positive impact 
 
 [![Anna's GitHub stats](https://github-readme-stats-01-ten.vercel.app/api?username=AnnaTheSloth284)](https://github.com/anuraghazra/github-readme-stats)
 
+![Anurag's GitHub stats](https://github-readme-stats-01-ten.vercel.app/api?username=AnnaTheSloth284&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
 _P.S. My a/c links are on the left side of my profile, so why simply repaste the links here?_
